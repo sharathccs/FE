@@ -12,7 +12,7 @@
     <section>
         <form>
             <label>Name: </label>
-            <input type ="text" placeholder="Jon Doe">
+            <input type ="text" placeholder="Jon Doe" id="name">
             <br />
             <br />
 
@@ -22,10 +22,16 @@
             <br />
 
             <label>Gender: </label>
-            <input type =  "radio" name ="gender">Male
-            <input type =  "radio" name ="gender">Female
+            <input type =  "radio" name ="gender" id="male">Male
+            <input type =  "radio" name ="gender" id="female"  >Female
             <br />
             <br />
+
+            <label>Do you like to cook ? </label>
+            <input type="checkbox" id ="Cook">Yes
+            <br />
+            <br />
+
 
             <label>Favorite Food: </label>
             <select >
@@ -42,12 +48,6 @@
                 <option value="Option 2">
                 <option value="Option 3">
             </datalist> -->
-
-            <label>Do you like to cook ? </label>
-            <input type="checkbox" name ="Cook">Yes
-            <br />
-            <br />
-
             <label>Additional Comments: </label>
             <textarea rows="5" cols="40"></textarea>
             <br />
