@@ -1,2 +1,2 @@
-This is the first commit done from local of ResolvingMergeConflict branchThis is the first commit done from local of ResolvingMergeConflict branch
+This is the first commit done from local of ResolvingMergeConflict branch
 adding changes from main branch
