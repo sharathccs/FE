@@ -1,2 +1,2 @@
 This is the first commit done from local of ResolvingMergeConflict branch
-adding changes from main branch - modifying from feature branchadding changes from main branch - modifying from feature branch. Did not take pull but making changes.
+adding changes from main branch - modifying from feature branchadding changes from main branch - modifying from feature branch. Did not take pull but making changes.adding changes from main branch - modifying from feature branch. Did not take pull but making changes.
