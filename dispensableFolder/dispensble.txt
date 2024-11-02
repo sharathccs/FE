@@ -1,2 +1,2 @@
 This is the first commit done from local of ResolvingMergeConflict branch
-adding changes from main branch
+adding changes from main branch - modifying from feature branch
