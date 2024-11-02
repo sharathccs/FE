@@ -2,4 +2,4 @@ Dispensable file from main
 
 Additional changes being added from main banch
 
-Pulled the latest from main and contributing from my feature branch. Did not take pull, but making changes.
+Pulled the latest from main and contributing from my feature branch. Did not take pull from main, but making changes.
