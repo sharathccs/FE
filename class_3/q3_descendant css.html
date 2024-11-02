@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>q3_DirectParent</title>
+</head>
+    
+    
+    <!-- IF you style it this way both direct and indirect sons will be highlighted blue. We want only direct son to be colired blue -->
+    <!-- <style>
+        div h1 span{
+            color: blue;
+        }
+    </style> -->
+
+    <!-- The way to deal with that is by explicitly specifying i need this style to be appied to a direct descnedant by specifying > -->
+    <style>
+        div  > h1 span{
+            color: blue;
+        }
+    </style> 
+    
+
+<body>
+    <div>
+        <h1>
+            <span>I am a direct son</span>
+        </h1>
+    </div>
+    <div>
+        <span>
+            <h1>
+                <span>I am a indirect son</span>
+            </h1>
+        </span>
+    </div>
+</body>
+</html>
