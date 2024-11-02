@@ -1,2 +1,3 @@
 This is the first commit done from local of ResolvingMergeConflict branch
+adding changes from main branch - modifying from feature branch. Did not take pull but making changes.
 adding changes from main branch - modifying from feature branch. Got the latest from featue to main. now making changes to induce conflict.
